@@ -248,3 +248,75 @@ nav{
     border-radius: 24px;
     align-items: center;
 }
+.donate{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin: 24px 0px;
+    gap: 24px;
+}
+.donate-pera{
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px 24px;
+    gap: 24px;
+    justify-content: center;
+   color: rgba(14, 14, 14, 0.7);
+    text-align: center;
+}
+.tk-div{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+gap: 24px;
+}
+.first-tk{
+    /* box-sizing: border-box; */
+    width: 245px;
+    height: 132px;
+    padding: 40px;
+    border-radius: 16px;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 12px 0px;
+   background-color: whitesmoke;
+
+}
+.second-tk{
+   
+    width: 245px;
+    height: 132px;
+    padding: 40px;
+    border-radius: 16px;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 12px 0px;
+    background-color: rgb(198, 228, 214);
+    gap: 24px;
+}
+.first-input{
+
+    text-align: center;
+   gap: 24px;
+   padding: 20px 40px 20px 40px;
+   margin: 32px 0px;
+   width: 50%;
+   background-color: #FFFFFF;
+ 
+ 
+}
+.last-div{
+    text-align: center;
+}
+.last-button{
+   font-size: 18px;
+   font-weight: 600;
+   gap:48px;
+   padding: 17px 34px 17px 34px;
+   background-color: rgb(0, 106, 80);
+   color: white;
+   margin: 32px 0px;
+   border-radius: 8px;
+   border: none;
+}
