@@ -66,6 +66,7 @@ nav{
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
+    color: rgba(14, 14, 14, 0.7);
 }
 .second-nav{
     display: flex;
@@ -167,5 +168,83 @@ nav{
     align-items: center;
     padding: 11px 20px 11px 20px;
 }
+.seven-hed{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    margin: 24px 0px;
+}
+.six-pera{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin: 12px 0px;
+}
+.seven-hed{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+    margin: 24px 0px;
+    padding: 0;
+    gap: 24px;
+}
+.six-pera{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin: 12px 0px;
+    gap: 12px;
+    padding: 0px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.seven-pic{
+    width: 408px;
+    height: 306px;
+    margin: 0px 32px;
+    border-radius: 24px;
+}
+.eight-hed{
+    font-size: 32px;
+    font-weight: 700;
+    text-align: left;
+    margin: 12px 0px;
+    gap: 12px;
+}
+.eight-pic{
+    width: 134px;
+    height: 40px;
+    margin: 12px 0px;
+}
+.nine-hed{
+    font-size: 16px;
+    font-weight: 400;
+    gap: 12px;
+    text-align: left;
+    color: rgba(14, 14, 14, 0.7);
+}
+.seven-pera{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin: 12px 0px;
+    gap:12px;
+    color: rgba(14, 14, 14, 0.7);
 
+}
+.fifth-btn{
+    background-color: rgb(0, 106, 80);
+    color: white;
+    margin: 32px 0px;
+    padding: 13px 26px 13px 26px;
+    border-radius: 8px;
+    align-items: center;
 
+}
+.bc-c{
+    background-color:whitesmoke;
+    padding: 48px;
+    margin: 24px 0px;
+    gap: 32px;
+    border-radius: 24px;
+    align-items: center;
+}
