@@ -52,3 +52,120 @@ nav{
 .first-div{
     gap: 64px;
 }
+.third-hed{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+}
+.second-div{
+    margin: 24px 0px;
+    gap: 24px;
+    padding: 0px;
+}
+.second-pera{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.second-nav{
+    display: flex;
+    gap: 24px;
+}
+.third-div{
+
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+    height: 325px;
+    width: 410px;
+    gap: 24px;
+    padding: 32px;
+}
+.fourth-hed{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.third-pera{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin: 12px 0px;
+}
+.second-btn{
+    background-color: #5490F5;
+    color: white;
+    border-radius: 8px;
+    margin: 24px 0px;
+    gap: 48px;
+    width: 122px;
+    height: 41px;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 20px 11px 20px;
+}
+.fourth-div{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    height: 325px;
+    width: 410px;
+    gap: 24px;
+    padding: 32px;
+
+}
+.fifth-hed{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.fourth-pera{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin: 12px 0px;
+}
+.third-btn{
+    background-color: #09A15C;
+    color: white;
+    border-radius: 8px;
+    margin: 24px 0px;
+    gap: 48px;
+    width: 122px;
+    height: 41px;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 20px 11px 20px;
+}
+.fifth-div{
+    background-color:  #F7EBCF;
+    border-radius: 16px;
+    height: 325px;
+    width: 410px;
+    gap: 24px;
+    padding: 32px;
+
+}
+.six-hed{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+}
+.fifth-pera{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin: 12px 0px;
+}
+.fourth-btn{
+    background-color: #FFC239;
+    color: white;
+    border-radius: 8px;
+    margin: 24px 0px;
+    gap: 48px;
+    width: 122px;
+    height: 41px;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 20px 11px 20px;
+}
+
+
