@@ -27,6 +27,7 @@
     justify-content: center;
     margin: 24px 0px;
     padding: 17px 34px 17px 34px;
+    border: none;
 }
 .first-pic{
     width: 474px 3px;
@@ -103,6 +104,7 @@ nav{
     justify-content: center;
     align-items: center;
     padding: 11px 20px 11px 20px;
+    border: none;
 }
 .fourth-div{
     background-color: #C6E4D6;
@@ -135,6 +137,7 @@ nav{
     justify-content: center;
     align-items: center;
     padding: 11px 20px 11px 20px;
+    border: none;
 }
 .fifth-div{
     background-color:  #F7EBCF;
@@ -167,6 +170,7 @@ nav{
     justify-content: center;
     align-items: center;
     padding: 11px 20px 11px 20px;
+    border: none;
 }
 .seven-hed{
     font-size: 40px;
@@ -238,6 +242,7 @@ nav{
     padding: 13px 26px 13px 26px;
     border-radius: 8px;
     align-items: center;
+    border: none;
 
 }
 .bc-c{
